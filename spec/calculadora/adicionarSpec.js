@@ -7,8 +7,8 @@ describe("Suite de testes de adição", function () {
 			return 0;
 		}
 
-		num1 = parseFloat(num1);
-		num2 = parseFloat(num2);
+		num1 = Number(num1);
+		num2 = Number(num2);
 
 		return num1 + num2;
 		}
