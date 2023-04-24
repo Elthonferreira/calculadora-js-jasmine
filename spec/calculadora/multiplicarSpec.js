@@ -1,4 +1,4 @@
-describe("Suite de testes de divisão", function () {
+describe("Suite de testes de multiplicação", function () {
 
 	var Calculadora = {
 	multiplicar: function (num1, num2) {
